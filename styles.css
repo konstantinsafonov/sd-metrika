@@ -1,0 +1,69 @@
+body {
+    font-family: "Manrope", sans-serif;
+    width: 100%;
+    background: #f5f5f5;
+}
+
+.conteiner {
+    margin: 0 auto;
+    width: 1400px;
+    background: #FFFFFF;
+    padding: 125px;
+}
+
+.interior {
+    margin-top: 30px;
+    padding-top: 379px;
+    padding-left: 40px;
+    height: 500px;
+    width: 1150px;
+    background-image: url('img_1.png');
+}
+
+.image-text {
+    width: 430px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.32px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.discription {
+    width: 1048px;
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61.47px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+a {
+    margin-top: 30px;
+    display: inline-block;
+    padding: 20px 40px;
+    gap: 10px;
+    border-radius: 5px;
+    opacity: 0px;
+    text-decoration-line: none;
+    background-color: #AD1818;
+    color: #FFFFFF;
+}
+
